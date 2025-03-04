@@ -1,0 +1,3 @@
+# Patient Data Format:
+# patientId,fullName,age,gender,contact,email,aadhar,address,emergencyContact
+PID003,ABC,20,Male,4125789630,,741852963021,445hudbib		,7894561230,Here for Checkup,N/A
